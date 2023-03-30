@@ -1,6 +1,14 @@
 # crypto-collection-cryptokings
 
-Project Submission for Information Security Unit.
+Project Developed for Information Security Unit.
+
+This application provides: Symmetric Encryption/Decryption, Asymmetric Encryption/Decryption, and Digital Signing/Verification.
+Most of the logic for these functionalities can be found under the classes: 
+  * SymmetricEncryption.java 
+  * AsymmetricEncryption.java
+  * DigitalSigning.java
+
+The rest of the classes contain some helper methods and the necessary code for the Graphical User Interface.
 
 Note: For simplicity the source files have been created under the _default_ package. This project uses the BoncyCastle API.
 
@@ -13,13 +21,7 @@ Instructions to run the project:
 
 Alternatively, a JAR executable named **CryptoTool.jar** has been provided through github under _crypto-collection-cryptokings/JARfiles_.
 
-This application provides: Symmetric Encryption/Decryption, Asymmetric Encryption/Decryption, and Digital Signing/Verification.
-Most of the logic for these functionalities can be found under the classes: 
-  * SymmetricEncryption.java 
-  * AsymmetricEncryption.java
-  * DigitalSigning.java
 
-The rest of the classes contain some helper methods and the necessary code for the Graphical User Interface.
   
 
 
