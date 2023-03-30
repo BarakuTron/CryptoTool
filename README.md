@@ -1,4 +1,4 @@
-# crypto-collection
+# CryptoTool Crypto-Collection
 
 Project Developed for Information Security Unit.
 
