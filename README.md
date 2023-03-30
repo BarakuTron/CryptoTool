@@ -16,10 +16,10 @@ Instructions to run the project:
 1. Create a Java project 
 2. Copy the source (.java) files to the default package of the src folder.
 3. Open Project Properties and navigate to configure the Java Build Path
-4. Add External BouncyCastle JAR (provided under _crypto-collection-cryptokings/JARfiles_)
+4. Add External BouncyCastle JAR (provided under _JARfiles_)
 5. Run the **WelcomeGUI.java** class.
 
-Alternatively, a JAR executable named **CryptoTool.jar** has been provided through github under _crypto-collection-cryptokings/JARfiles_.
+Alternatively, a JAR executable named **CryptoTool.jar** has been provided through github under _JARfiles_.
 
 
   
