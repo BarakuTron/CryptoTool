@@ -1,4 +1,4 @@
-# crypto-collection-cryptokings
+# crypto-collection
 
 Project Developed for Information Security Unit.
 
